@@ -202,3 +202,6 @@ This repository serves as the official landing page for Aarklash: Legacy. The so
 - 💬 **[Community](https://irjmc.berga.top/about-us/)**
 ---
 **Get the most recent version of Aarklash: Legacy today!**
+
+---
+**Last updated:** 2026-11-20 02:50:02 UTC
